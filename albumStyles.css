@@ -1,0 +1,4 @@
+body { background-color: gold;}
+
+table {width: 75%; text-align: center;}
+th, td {border: 1px dotted grey; height: 15px}
