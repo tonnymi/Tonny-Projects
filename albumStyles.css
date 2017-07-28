@@ -1,4 +1,36 @@
-body { background-color: gold;}
-
-table {width: 75%; text-align: center;}
-th, td {border: 1px dotted grey; height: 15px}
+body {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+table {
+    width: 75%;
+    text-align: center;
+    background-color: khaki;
+    border-collapse: collapse;
+    font-style: italic;
+}
+th, td {
+    border: 1px solid black; height: 15px
+}
+ul {
+    font-style: italic;
+}
+.theBand {
+    font-family: "Gotham HTF Thin"
+}
+/*.divBgImage{
+    background-image: url("images/MB20AlbumIMG.jpg");
+    background-size: 275px;
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+    padding-top: 100px;
+    background-position: center;
+ }*/
+a:link {
+  color: Green;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  background-color: gold;
+}
