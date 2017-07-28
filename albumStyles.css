@@ -3,10 +3,8 @@ body {
     padding-right: 100px;
 }
 table {
-    width: 75%;
     text-align: center;
     background-color: khaki;
-    border-collapse: collapse;
     font-style: italic;
 }
 th, td {
